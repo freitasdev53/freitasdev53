@@ -7,7 +7,7 @@
   <dl>
     <dt>Meus perfis</dt>
     <dd><a href="https://www.linkedin.com/in/max-henrique-5a56b3191/">Linkedln</a></dd>
-    <dd><a href="https://www.instagram.com/freitasdev/">Instagram</a></dd>
+<!--     <dd><a href="https://www.instagram.com/freitasdev/">Instagram</a></dd> -->
   </p>
 
 <hr>
